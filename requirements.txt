@@ -1,6 +1,6 @@
-PySide6
-numpy
-scipy
-pandas
-matplotlib
-jupyter
+# GUI framework and native Windows event integration.
+PySide6>=6.8,<7
+
+# Preallocated arrays for high-frequency input samples.
+numpy>=2.0,<3
+
