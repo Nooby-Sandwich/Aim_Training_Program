@@ -1,10 +1,8 @@
 {
   "mouse": {
-    "model": "HyperX Pulsefire Haste 2 Wireless",
-    "hand": "left",
-    "grip": "claw",
-    "dpi": 800,
-    "polling_rate_hz": 1000
+        "dpi": 1600,
+        "polling_rate_hz": 1000,
+        "angle_snapping": false
   },
   "aim_calibration": {
     "cm_per_360": null,
